@@ -232,3 +232,11 @@ git push origin feature-name
 ```
 
 5. Open a Pull Request.
+
+--- 
+
+## Deployment Note
+
+This project requires an AI API key and environment variables for the AI-powered features.
+
+For security reasons, the API keys are not included in this repository.
